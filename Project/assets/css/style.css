@@ -860,7 +860,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgb(46, 105, 61, 0.9), rgba(46, 105, 61, 0.9)), url("../img/FidelsPictures/EcoFriendlyCity.jpg") fixed center center;
+  background: linear-gradient(rgb(49, 14, 11,.9), rgb(49, 14, 11,.9)), url("../img/FidelsPictures/EcoFriendlyCity.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
