@@ -1493,26 +1493,18 @@ section {
   background-color: #310e0b;
 }
 
-.wave {
-  position: absolute;
-  top: 0;
-  left: 0;
+.wave-container {
   width: 100%;
   overflow: hidden;
-  line-height: 0;
-  transform: rotate(180deg);
+  margin-top: -300px;
 }
 
-.wave svg {
-  position: relative;
+.wave-svg {
   display: block;
-  width: calc(102% + 1.3px);
-  height: 138px;
+  width: 100%;
+  height: auto;
 }
 
-.wave .shape-fill {
-  fill: #FFFFFF;
-}
 
 .goals-content {
   display: flex;
